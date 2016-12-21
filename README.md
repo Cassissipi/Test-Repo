@@ -1,10 +1,10 @@
-# Test-Repo
-This is a test Repo.
+## Test-Repo
+###This is a test Repo.
 
-Common Murres are the best
+###Common Murres are the best
 
-They like to swim but they fly really fast
+###They like to swim but they fly really fast
 
-Although you might think they are a penguin they are not
+###Although you might think they are a penguin they are not
 
-Common Murres are the best
+###Common Murres are the best
